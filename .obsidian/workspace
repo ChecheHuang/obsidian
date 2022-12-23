@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "957ce1354fccb97a",
+    "type": "split",
+    "children": [
+      {
+        "id": "04bf325ff36ec223",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "未命名.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4e0e88e29cc4b6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "39d77098c3a65a47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3971fbe32f49f049",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "484b5ae00f5da961",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "8703b31fe6311761",
+    "type": "split",
+    "children": [
+      {
+        "id": "4072ba62c56fdab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b7e6f0b03193a94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "04bf325ff36ec223",
+  "lastOpenFiles": [
+    "學習/php/laravel/Laravel啟動與運行/Laravel啟動與運行.md",
+    "16.佇列、job、事件、廣播與排程器.md",
+    "學習/php/laravel/Laravel啟動與運行/章節/為何選擇 Lavarel.md",
+    "學習/php/laravel/使用Laravel 8 PHP 主流框架打造RESTful API/使用Laravel 8 PHP 主流框架打造RESTful API.md",
+    "未命名.md",
+    "工作日誌.md",
+    "學習/git/release.md",
+    "學習/linux/資安工具/mod-security/mod-security.md",
+    "學習/linux/資安工具/iperf.md",
+    "學習/linux/資安工具/WAF.md"
+  ]
+}
