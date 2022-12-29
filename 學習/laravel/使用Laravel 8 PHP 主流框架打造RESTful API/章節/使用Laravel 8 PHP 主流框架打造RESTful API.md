@@ -1,6 +1,6 @@
 # 使用 Laravel 8 PHP 主流框架打造 RESTful API
 
-## 開發環境
+## [[開發環境]]
 
 - ### 安裝 XAMPP
 - ### 安裝編輯器
@@ -663,6 +663,4 @@ app\Http\Controllers\AnimalController.php
 - ### Mac 更新 PHP
 - ### 常見 HTTP 狀態碼總覽
 
-```
 
-```
