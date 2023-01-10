@@ -1,6 +1,6 @@
 # 使用 Laravel 8 PHP 主流框架打造 RESTful API
 
-## [[開發環境]]
+## 開發環境
 
 - ### 安裝 XAMPP
 - ### 安裝編輯器

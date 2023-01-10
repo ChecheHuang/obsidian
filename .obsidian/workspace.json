@@ -18,15 +18,18 @@
             }
           },
           {
-            "id": "db37a48b5e3c0b72",
+            "id": "34320f0083a6ee17",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "學習/react/redux/redux.md",
-                "mode": "source",
+                "file": "interview/README.md",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -88,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "學習/react/redux/redux.md",
+                "file": "interview/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +118,17 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "3971fbe32f49f049",
+  "active": "34320f0083a6ee17",
   "lastOpenFiles": [
-    "開發環境.md",
-    "學習/vue/尚硅谷Vue2.0+Vue3.0全套教程.md",
-    "學習/linux/常用指令.md",
-    "學習/正規表達式.md",
-    "工作日誌.md",
-    "學習/git/Pasted image 20220613114109.png",
-    "學習/react/Learn react.md",
-    "學習/typescript/【前端速成】TypeScript TS 快速入門｜Tiktok工程師帶你入門前端｜布魯斯前端.md",
-    "學習/laravel/Laravel啟動與運行/Laravel啟動與運行.md",
-    "學習/laravel/Laravel啟動與運行/章節/3.路由與 controller.md"
+    "interview/css/line-height 如何繼承？.md",
+    "interview/README.md",
+    "interview/css/水平垂直居中多種實現方式.md",
+    "interview/css/實現聖杯佈局和雙飛翼佈局（經典三分欄佈局）.md",
+    "interview/css/實現兩欄佈局（左側固定+ 右側自適應佈局）.md",
+    "interview/css/對BFC的理解.md",
+    "interview/css/重排（reflow）和重繪（repaint）.md",
+    "interview/css/css 選擇器和優先級.md",
+    "interview/css/盒模型介紹.md",
+    "interview/html/從瀏覽器地址欄輸入url 到請求返回發生了什麼.md"
   ]
 }
