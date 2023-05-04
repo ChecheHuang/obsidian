@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0537922ee0c6a60",
+        "id": "d720c79111e5fa94",
         "type": "tabs",
         "children": [
           {
-            "id": "7af0ff168ba14117",
+            "id": "40fe680c65ec9e64",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,18 +18,15 @@
             }
           },
           {
-            "id": "34320f0083a6ee17",
+            "id": "ce83a554b9bc927d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/README.md",
-                "mode": "preview",
-                "backlinks": true,
+                "file": "學習/react/redux/redux.md",
+                "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -70,6 +67,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "3573e478b6af9e8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -91,18 +96,27 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/README.md",
+                "file": "學習/react/redux/redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "c72044fc8165f32f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,24 +125,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:建立新畫布": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
-      "canvas:Create new canvas": false,
       "command-palette:開啟命令面板": false,
-      "markdown-importer:開啟 Markdown 格式轉換器": false
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "terminal:Open terminal": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templates:插入模板": false
     }
   },
-  "active": "34320f0083a6ee17",
+  "active": "ce83a554b9bc927d",
   "lastOpenFiles": [
-    "interview/css/line-height 如何繼承？.md",
-    "interview/README.md",
-    "interview/css/水平垂直居中多種實現方式.md",
-    "interview/css/實現聖杯佈局和雙飛翼佈局（經典三分欄佈局）.md",
-    "interview/css/實現兩欄佈局（左側固定+ 右側自適應佈局）.md",
-    "interview/css/對BFC的理解.md",
-    "interview/css/重排（reflow）和重繪（repaint）.md",
-    "interview/css/css 選擇器和優先級.md",
-    "interview/css/盒模型介紹.md",
-    "interview/html/從瀏覽器地址欄輸入url 到請求返回發生了什麼.md"
+    "iv/README.md",
+    "新功能開發.md",
+    "Pasted image 20230504140519.png.md",
+    "vue/Pasted image 20230504140607.png",
+    "中繼站.md",
+    "Pasted image 20230504140501.png.md",
+    "vue/Pasted image 20230504140519.png",
+    "Pasted image 20230504140501.png",
+    "學習/linux/資安工具/fail2ban/fai2ban介紹.md",
+    "學習/laravel/使用Laravel 8 PHP 主流框架打造RESTful API/章節/使用Laravel 8 PHP 主流框架打造RESTful API.md",
+    "學習/laravel/Laravel啟動與運行/章節/1.為何選擇 Lavarel.md",
+    "學習/laravel/Laravel啟動與運行/Laravel啟動與運行.md",
+    "教育訓練.md",
+    "前端工程化/Vite+React+Tailwinds.md",
+    "學習/typescript/typeScript問題.md",
+    "未命名",
+    "vue",
+    "模板/問答.md",
+    "學習/typescript/TypeScript TS 快速入門｜Tiktok工程師帶你入門前端｜布魯斯前端.md",
+    "學習/react/redux/redux.md",
+    "學習/react/redux/創建slice.md",
+    "學習/react/redux/元件使用redux.md",
+    "JWT.md",
+    "0428海光宮.md",
+    "未命名.canvas",
+    "工作日誌.md",
+    "學習/linux/常用指令.md",
+    "學習/js/js  ArrayMethod/js  ArrayMethod.md",
+    "學習/js/js  ArrayMethod/concat.md",
+    "模板",
+    "學習/git/gitflow.md",
+    "學習/git/develop.md",
+    "書/Javacript卡斯伯.md",
+    "資料庫圖片/sunnyds/yxds_orders.png",
+    "資料庫圖片/sunny_twczw_webs/yx_order.png",
+    "前端工程化",
+    "Pasted image 20230410113254.png",
+    "Pasted image 20230322170558.png"
   ]
 }
