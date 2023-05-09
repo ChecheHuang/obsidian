@@ -18,12 +18,24 @@
             }
           },
           {
-            "id": "ce83a554b9bc927d",
+            "id": "b66bd2e24f7a5d7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "學習/react/redux/redux.md",
+                "file": "前端工程化/Vite+React+Tailwinds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d9346bd6d44c93d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端工程化/vite+vue.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "學習/react/redux/redux.md",
+                "file": "前端工程化/Vite+React+Tailwinds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,45 +147,53 @@
       "templates:插入模板": false
     }
   },
-  "active": "ce83a554b9bc927d",
+  "active": "b66bd2e24f7a5d7f",
   "lastOpenFiles": [
-    "iv/README.md",
-    "新功能開發.md",
-    "Pasted image 20230504140519.png.md",
-    "vue/Pasted image 20230504140607.png",
-    "中繼站.md",
-    "Pasted image 20230504140501.png.md",
-    "vue/Pasted image 20230504140519.png",
-    "Pasted image 20230504140501.png",
-    "學習/linux/資安工具/fail2ban/fai2ban介紹.md",
-    "學習/laravel/使用Laravel 8 PHP 主流框架打造RESTful API/章節/使用Laravel 8 PHP 主流框架打造RESTful API.md",
-    "學習/laravel/Laravel啟動與運行/章節/1.為何選擇 Lavarel.md",
-    "學習/laravel/Laravel啟動與運行/Laravel啟動與運行.md",
-    "教育訓練.md",
+    "前端工程化/vite+vue.md",
     "前端工程化/Vite+React+Tailwinds.md",
-    "學習/typescript/typeScript問題.md",
-    "未命名",
-    "vue",
-    "模板/問答.md",
-    "學習/typescript/TypeScript TS 快速入門｜Tiktok工程師帶你入門前端｜布魯斯前端.md",
-    "學習/react/redux/redux.md",
-    "學習/react/redux/創建slice.md",
-    "學習/react/redux/元件使用redux.md",
-    "JWT.md",
-    "0428海光宮.md",
-    "未命名.canvas",
+    "中繼站.md",
     "工作日誌.md",
-    "學習/linux/常用指令.md",
+    "教育訓練.md",
+    "Pasted image 20230509114925.png",
+    "Pasted image 20230509114839.png",
+    "教育訓練流程.md",
+    "學習/typescript/TypeScript TS 快速入門｜Tiktok工程師帶你入門前端｜布魯斯前端.md",
+    "學習/linux/資安工具/mod-security/mod-security.md",
     "學習/js/js  ArrayMethod/js  ArrayMethod.md",
     "學習/js/js  ArrayMethod/concat.md",
-    "模板",
-    "學習/git/gitflow.md",
     "學習/git/develop.md",
-    "書/Javacript卡斯伯.md",
+    "學習/git/release.md",
+    "學習/git/Pasted image 20220613114109.png",
+    "學習/git/merge.md",
+    "學習/git/master.md",
+    "學習/git/githubflow.md",
+    "學習/git/gitflow.md",
+    "學習/git/feature.md",
+    "vue+laravel練習/簡易ToDo.md",
+    "Pasted image 20230505161356.png.md",
+    "0428海光宮.md",
+    "laravel.md",
+    "學習/typescript/typeScript問題.md",
+    "學習/react/components/Button.tsx.md",
+    "學習/react/components",
+    "模板/隱藏code.md",
+    "模板/隱藏.md",
+    "模板/block.md",
+    "vue+laravel練習/資源/Pasted image 20230505161356.png",
+    "vue+laravel練習/資源/demo.mp4",
+    "vue+laravel練習/資源/demo.wmv",
+    "vue+laravel練習/資源/Screen Recording (2023-5-5 下午 02-04-27).wmv",
+    "vue+laravel練習/資源",
+    "vue+laravel練習",
+    "Pasted image 20230505100421.png",
+    "Pasted image 20230505100105.png",
+    "vue/Pasted image 20230504140607.png",
+    "vue/Pasted image 20230504140519.png",
+    "Pasted image 20230504140501.png",
+    "vue",
+    "未命名.canvas",
+    "模板",
     "資料庫圖片/sunnyds/yxds_orders.png",
-    "資料庫圖片/sunny_twczw_webs/yx_order.png",
-    "前端工程化",
-    "Pasted image 20230410113254.png",
-    "Pasted image 20230322170558.png"
+    "前端工程化"
   ]
 }
