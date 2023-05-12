@@ -2,8 +2,8 @@
   "terminal:open-terminal.external.root": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "O"
     }

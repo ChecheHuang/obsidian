@@ -3,5 +3,7 @@
   "execute-code",
   "table-editor-obsidian",
   "obsidian-format-code",
-  "obsidian-table-generator"
+  "obsidian-table-generator",
+  "obsidian-plugin-toc",
+  "obsidian-pandoc"
 ]

@@ -18,10 +18,11 @@ npm run dev
 ```
 
 
+
 ### 建立Linter和format
  
 ```
-npm install --save-dev  eslint-plugin-prettier eslint prettier eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y eslint-plugin-react-hooks eslint-config-react-app @typescript-eslint/eslint-plugin @typescript-eslint/parser husky lint-staged commitizen commitlint cz-customizable commitlint-config-cz @commitlint/config-conventional
+npm install --save-dev  eslint-plugin-prettier eslint prettier eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y eslint-plugin-react-hooks eslint-config-react-app @typescript-eslint/eslint-plugin @typescript-eslint/parser husky lint-staged commitizen commitlint cz-customizable commitlint-config-cz @commitlint/config-conventional tailwindcss@latest postcss@latest autoprefixer@latest
 ```
 
 ``` json
@@ -38,6 +39,25 @@ npm install --save-dev  eslint-plugin-prettier eslint prettier eslint-plugin-imp
   }
 ```
 ### 增加以下檔案
+
+``` css
+///src/index.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+``` javascript
+//postcss.config.js
+module.exports = {
+  plugins: [
+    require('tailwindcss'),
+    require('autoprefixer'),
+  ],
+}
+```
+
+
 ``` javascript!=
 // commitlint.config.js
 module.exports = {

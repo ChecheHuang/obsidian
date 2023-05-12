@@ -5,13 +5,82 @@
   "errorNoticeTimeout": 0,
   "focusOnNewInstance": true,
   "hideStatusBar": "focused",
-  "language": "",
+  "language": "zh-Hant",
   "lastReadChangelogVersion": "3.7.0",
   "newInstanceBehavior": "newHorizontalSplit",
   "noticeTimeout": 5,
   "pinNewInstance": true,
   "preferredRenderer": "webgl",
   "profiles": {
+    "49772638-a1a1-4b2e-8699-a5cbead704e9": {
+      "args": [],
+      "executable": "/bin/bash",
+      "name": "",
+      "platforms": {
+        "darwin": true,
+        "linux": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
+    "a2df7bf4-1aa1-4b3b-a857-0d789fc3b41d": {
+      "args": [],
+      "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "name": "",
+      "platforms": {
+        "win32": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
+    "b80a9483-b89f-4653-898b-043ec3de184f": {
+      "args": [],
+      "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "name": "",
+      "platforms": {
+        "win32": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
+    "dbe72f69-80da-4bf2-aafb-28e8308de1f0": {
+      "args": [],
+      "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "name": "",
+      "platforms": {
+        "win32": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
     "darwinExternalDefault": {
       "args": [],
       "executable": "/System/Applications/Utilities/Terminal.app/Contents/macOS/Terminal",
@@ -104,6 +173,23 @@
     "win32IntegratedDefault": {
       "args": [],
       "executable": "C:\\Windows\\System32\\cmd.exe",
+      "name": "",
+      "platforms": {
+        "win32": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
+    "bfc6aeaa-c4ce-469c-a6c4-8657f544a0ae": {
+      "args": [],
+      "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
       "name": "",
       "platforms": {
         "win32": true

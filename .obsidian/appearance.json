@@ -1,4 +1,10 @@
 {
   "baseFontSize": 16,
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "custom-folder-files-tree"
+  ],
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "cssTheme": "Sanctum"
 }
