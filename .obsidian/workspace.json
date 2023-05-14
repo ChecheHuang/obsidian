@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0998fd3cd97aacbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模板/HTML-TABLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/components/Button.tsx.md",
+                "file": "模板/HTML-TABLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,20 +129,29 @@
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templates:插入模板": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "command-palette:開啟命令面板": false,
       "markdown-importer:開啟 Markdown 格式轉換器": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "templates:插入模板": false
     }
   },
-  "active": "2c874ec83d4b5d88",
+  "active": "0998fd3cd97aacbd",
   "lastOpenFiles": [
+    "測試_tmp.html",
+    "測試.pdf",
+    "模板/隱藏.md",
+    "模板/隱藏code.md",
+    "模板/HTML-TABLE.md",
+    "工具/MarkDown to PDF.md",
+    "工具",
+    "模板/換頁.md",
+    "測試.md",
+    "react/components/Button.tsx.md",
     "JWT.md",
     "vue+laravel練習/簡易ToDo.md",
-    "未命名",
     "前端工程化/Vite+React+Tailwinds.md",
     "前端工程化/Vite+React+Tailwinds.pdf",
     "前端工程化/Vite+React+Tailwinds_tmp.html",
@@ -150,22 +171,14 @@
     "資料庫圖片/sunnyds",
     "資料庫圖片/sunny_twczw_webs",
     "資料庫圖片",
-    "測試.md",
-    "模板/隱藏code.md",
-    "模板/隱藏.md",
-    "模板/換頁.md",
-    "模板/HTML-TABLE.md",
-    "模板",
     "智慧時尚教育訓練/教育訓練.md",
     "新功能開發.md",
     "學習/typescript/typeScript問題.md",
     "學習/typescript/TypeScript TS 快速入門｜Tiktok工程師帶你入門前端｜布魯斯前端.md",
     "react/redux/redux.md",
-    "react/components/Button.tsx.md",
     "前端工程化/vite+vue.md",
     "laravel.md",
     "學習/正規表達式.md",
-    "學習/vue/尚硅谷Vue2.0+Vue3.0全套教程.md",
     "學習/linux/資安工具/fail2ban/Pasted image 20220822120035.png",
     "學習/linux/資安工具/fail2ban/Pasted image 20220822115940.png",
     "學習/linux/資安工具/fail2ban/Pasted image 20220822115820.png",
