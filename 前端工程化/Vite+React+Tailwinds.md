@@ -22,7 +22,7 @@ npm run dev
 ### 建立Linter和format
  
 ```
-npm install --save-dev  eslint-plugin-prettier eslint prettier eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y eslint-plugin-react-hooks eslint-config-react-app @typescript-eslint/eslint-plugin @typescript-eslint/parser husky lint-staged commitizen commitlint cz-customizable commitlint-config-cz @commitlint/config-conventional tailwindcss@latest postcss@latest autoprefixer@latest
+npm install --save-dev  eslint-plugin-prettier eslint prettier eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y eslint-plugin-react-hooks eslint-config-react-app @typescript-eslint/eslint-plugin @typescript-eslint/parser husky lint-staged commitizen commitlint cz-customizable commitlint-config-cz @commitlint/config-conventional tailwindcss@latest postcss@latest autoprefixer@latest 
 ```
 
 ``` json
@@ -32,7 +32,8 @@ npm install --save-dev  eslint-plugin-prettier eslint prettier eslint-plugin-imp
     "*.{js,jsx,ts,tsx,vue,json}": [
       "eslint --fix ."
     ]
-  },"config": {
+  },
+  "config": {
     "commitizen": {
       "path": "node_modules/cz-customizable"
     }

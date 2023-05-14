@@ -156,3 +156,78 @@ export const http: HttpMethodMap = {
 export default request;
 
 ```
+
+``` typescript!=
+export interface Result<T> {
+  code?: number;
+  status: string;
+  data: T;
+  message?: string;
+}
+
+const baseURL = "/api";
+const timeout = 3000;
+
+type HttpMethodMap = {
+  [key in MethodType]: <T>(
+    url: string,
+    data?: object,
+    config?: RequestInit
+  ) => Promise<Result<T>>;
+};
+
+export const http: HttpMethodMap = {
+  get: fetchWrapper("GET"),
+  post: fetchWrapper("POST"),
+  patch: fetchWrapper("PATCH"),
+  put: fetchWrapper("PUT"),
+  delete: fetchWrapper("DELETE"),
+};
+
+function fetchWrapper(method: MethodType) {
+  return async function <T>(
+    url: string,
+    data?: object,
+    config?: RequestInit
+  ): Promise<Result<T>> {
+    const token = localStroage.getItem('token')||""
+    const headers = config?.headers || {};
+    if (token) {
+      headers["token"] = token;
+    }
+
+    const requestConfig: RequestInit = {
+      method,
+      headers,
+      ...config,
+    };
+
+    if (method !== "GET") {
+      requestConfig.body = JSON.stringify(data);
+    }
+
+    let response: Response;
+    try {
+      response = await Promise.race([
+        fetch(`${baseURL}${url}`, requestConfig),
+        new Promise((_, reject) =>
+          setTimeout(() => reject(new Error("Timeout")), timeout)
+        ),
+      ]);
+    } catch (error) {
+      throw new Error("網絡錯誤");
+    }
+
+    if (!response.ok) {
+      throw new Error(response.statusText);
+    }
+
+    const responseData = await response.json();
+    if (responseData.status === "success") {
+      return responseData;
+    }
+
+    throw new Error("請求錯誤");
+  };
+}
+```
