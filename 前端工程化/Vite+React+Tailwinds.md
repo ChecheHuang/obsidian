@@ -25,6 +25,7 @@ npm run dev
 npm install --save-dev  eslint-plugin-prettier eslint prettier eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y eslint-plugin-react-hooks eslint-config-react-app @typescript-eslint/eslint-plugin @typescript-eslint/parser husky lint-staged commitizen commitlint cz-customizable commitlint-config-cz @commitlint/config-conventional tailwindcss@latest postcss@latest autoprefixer@latest 
 ```
 
+
 ``` json
 ,
 	//package.json "type": "module"刪掉這行加入下面
@@ -150,6 +151,18 @@ package-lock.json
 node_modules/
 ```
 
+``` javscript
+//tailwind.config.js
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
+
 
 ## 執行以下指令
 
@@ -170,12 +183,10 @@ npx husky add .husky/commit-msg 'npx --no-install commitlint --edit "$1"'
 ``` tsx
 import React from 'react'
 const App: React.FC = () => {
-  
 
-  return <div>App</div>
+  return <h1 className="text-3xl font-bold underline">Hello world!</h1>
 }
 export default App
-
 ```
 
 ```
