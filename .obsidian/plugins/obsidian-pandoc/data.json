@@ -8,8 +8,8 @@
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
   "pandoc": "C:\\Program Files\\Pandoc\\pandoc.exe",
-  "pdflatex": null,
+  "pdflatex": "C:\\Program Files\\MiKTeX\\miktex\\bin\\x64\\xelatex.exe",
   "outputFolder": "C:\\Users\\LT10s\\Desktop",
-  "extraArguments": "",
-  "exportFrom": "html"
+  "extraArguments": "--pdf-engine=xelatex --toc --toc-depth=4 --from markdown --template=eisvogel --listings --lua-filter=C:\\\\Users\\\\LT10s\\\\AppData\\\\Roaming\\\\pandoc\\\\filter\\\\filter.lua",
+  "exportFrom": "md"
 }
