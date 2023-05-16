@@ -9,7 +9,7 @@
   "highDPIDiagrams": true,
   "pandoc": "C:\\Program Files\\Pandoc\\pandoc.exe",
   "pdflatex": "C:\\Program Files\\MiKTeX\\miktex\\bin\\x64\\xelatex.exe",
-  "outputFolder": "C:\\Users\\LT10s\\Desktop",
-  "extraArguments": "--pdf-engine=xelatex --toc --toc-depth=4 --from markdown --template=eisvogel --listings --lua-filter=C:\\\\Users\\\\LT10s\\\\AppData\\\\Roaming\\\\pandoc\\\\filter\\\\filter.lua",
+  "outputFolder": "",
+  "extraArguments": "--pdf-engine=xelatex --toc --toc-depth=4 --from markdown --template=eisvogel  --listing --lua-filter=C:\\\\Users\\\\LT10s\\\\AppData\\\\Roaming\\\\pandoc\\\\filter\\\\filter.lua -F  mermaid-filter.cmd",
   "exportFrom": "md"
 }

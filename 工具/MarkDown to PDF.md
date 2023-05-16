@@ -1,5 +1,3 @@
-
-
 # MarkDown to PDF
 ## Pandoc
 ### 基本使用 
@@ -76,14 +74,26 @@ function Meta(meta)
   return meta
 end
 ```
+需要支援mermaid流程圖需要
+
+```
+npm install --global mermaid-filter
+```
+
+如果抓不到需要到環境變數設定
+
+##### ![](files/Pasted%20image%2020230516161552.png)
+
 執行以下
 ```
-pandoc "MarkDown to PDF.md" -o "example_with_template.pdf" --pdf-engine=xelatex --toc --toc-depth=4 --from markdown --template=eisvogel --listings --lua-filter=C:\\Users\\LT10s\\AppData\\Roaming\\pandoc\\filter\\filter.lua
+pandoc "MarkDown to PDF.md" -o "example_with_template.pdf" --pdf-engine=xelatex --toc --toc-depth=4 --from markdown --template=eisvogel --listings --lua-filter=C:\\Users\\LT10s\\AppData\\Roaming\\pandoc\\filter\\filter.lua -F  mermaid-filter.cmd
 ```
 
-#### 整合obsidian pandoc plugin
 
-![](files/Pasted%20image%2020230516113940.png)
+#### 整合obsidian pandoc plugin 
+
+##### ![](files/Pasted%20image%2020230516161648.png)
+
 
 ```
 //執行以下plugin
@@ -204,4 +214,19 @@ output:
 ```
 其餘參考如下
 [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/)
+
+| test  | ttwet | qwe   |
+| ----- | ----- | ----- |
+| 3r23r | 12142 | 21312 |
+| 3r23r | 12142 | 21312 |
+| 3r23r | 12142 | 21312 |
+| 3r23r | 12142 | 21312 |
+
+```mermaid
+graph TD
+  A[Hard] -->|Text| B(Round)
+  B --> C{Decision}
+  C -->|One| D[Result 1]
+  C -->|Two| E[Result 2]
+```
 
