@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d720c79111e5fa94",
+        "id": "b0537922ee0c6a60",
         "type": "tabs",
         "children": [
           {
-            "id": "40fe680c65ec9e64",
+            "id": "7af0ff168ba14117",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,19 +18,43 @@
             }
           },
           {
-            "id": "a7e035f50dbea722",
+            "id": "2c874ec83d4b5d88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/MarkDown to PDF.md",
+                "file": "react/components/Button.tsx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0998fd3cd97aacbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模板/HTML-TABLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd30509f72032831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "express/handleError.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +93,7 @@
             }
           },
           {
-            "id": "3573e478b6af9e8d",
+            "id": "4b7d8c1005bcb11b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,27 +120,18 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/MarkDown to PDF.md",
+                "file": "express/handleError.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "c72044fc8165f32f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,64 +140,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:建立新畫布": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
       "command-palette:開啟命令面板": false,
       "markdown-importer:開啟 Markdown 格式轉換器": false,
       "terminal:Open terminal": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:插入模板": false
     }
   },
-  "active": "a7e035f50dbea722",
+  "active": "fd30509f72032831",
   "lastOpenFiles": [
-    "工具/figure.tex",
-    "工具/MarkDown to PDF.pdf",
-    "測試.pdf",
-    "example_with_template.pdf",
-    "工具/example_with_template.pdf",
-    "assets",
-    "工具/files/image.png",
-    "工具/output.html",
-    "工具/example.pdf",
+    "express/files/Pasted image 20230517230224.png",
+    "express/files",
+    "模板/HTML-TABLE.md",
+    "express/handleError.md",
+    "express",
     "工具/files/Pasted image 20230516113940.png",
-    "工具/files/pandoc_plugin.png",
-    "工具/files/test.png",
-    "工具/MarkDown to PDF.md",
-    "工具/background.pdf",
-    "測試.md",
+    "工具/files",
     "files/Pasted image 20230516113110.png",
-    "工具/filter.lua",
-    "工具/background1.pdf",
-    "vue+laravel練習/簡易ToDo.md",
-    "工作日誌.md",
-    "前端工程化/Vite+React+Tailwinds.md",
-    "智慧時尚教育訓練/教育訓練.md",
-    "智慧時尚教育訓練/files/test1.png",
-    "laravel.md",
-    "files/Pasted image 20230515160204.png",
-    "結帳.md",
-    "files/Pasted image 20230515160223.png",
-    "中繼站.md",
-    "特店管理系統.md",
-    "files/2023-05-15-10-19-29.png",
-    "工具/files/2023-05-15-10-05-45.png",
-    "react/redux/創建store.md",
-    "react/redux/元件使用redux.md",
-    "react/redux/創建slice.md",
-    "react/redux/redux.md",
-    "react/redux/provider提供給全局元件才能使用.md",
-    "react/redux/linux安裝mysql.md",
-    "react/components/Button.tsx.md",
-    "學習/linux/資安工具/mod-security/mod-security.md",
-    "15.郵件與通知.md",
-    "學習/laravel/Laravel啟動與運行/章節/3.路由與 controller.md",
-    "14.儲存與取回.md",
+    "files",
+    "測試_tmp.html",
+    "測試.pdf",
     "模板/隱藏.md",
+    "模板/隱藏code.md",
+    "工具/MarkDown to PDF.md",
+    "工具",
     "模板/換頁.md",
-    "加扣點回覆檔.md",
+    "測試.md",
+    "react/components/Button.tsx.md",
     "JWT.md",
-    "未命名.canvas"
+    "vue+laravel練習/簡易ToDo.md",
+    "前端工程化/Vite+React+Tailwinds.md",
+    "前端工程化/Vite+React+Tailwinds.pdf",
+    "前端工程化/Vite+React+Tailwinds_tmp.html",
+    "前端工程化/files/Pasted image 20230513233628.png",
+    "前端工程化/files",
+    "特店管理系統.md",
+    "加扣點回覆檔.md",
+    "中繼站.md",
+    "工作日誌.md",
+    "0428海光宮.md",
+    "15.郵件與通知.md",
+    "14.儲存與取回.md",
+    "資料庫圖片/sunnyds/yxds_orders.png",
+    "資料庫圖片/sunny_twczw_webs/yx_order.png",
+    "智慧時尚教育訓練/教育訓練.md",
+    "新功能開發.md",
+    "學習/typescript/typeScript問題.md",
+    "學習/typescript/TypeScript TS 快速入門｜Tiktok工程師帶你入門前端｜布魯斯前端.md",
+    "react/redux/redux.md",
+    "前端工程化/vite+vue.md",
+    "laravel.md",
+    "學習/linux/資安工具/fail2ban/Pasted image 20220822120035.png",
+    "學習/linux/資安工具/fail2ban/Pasted image 20220822115940.png",
+    "學習/linux/資安工具/fail2ban/Pasted image 20220822115820.png",
+    "學習/linux/資安工具/fail2ban/Pasted image 20220822115133.png",
+    "學習/linux/資安工具/fail2ban/Pasted image 20220822114806.png"
   ]
 }
