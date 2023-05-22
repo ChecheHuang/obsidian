@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/MarkDown to PDF.md",
+                "file": "學習/clone/Real-Time Messenger Clone.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/MarkDown to PDF.md",
+                "file": "學習/clone/Real-Time Messenger Clone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +137,18 @@
   },
   "active": "d3710e02e04b8a7c",
   "lastOpenFiles": [
+    "工具/MarkDown to PDF.md",
+    "中繼站.md",
+    "學習/clone/Real-Time Messenger Clone.md",
+    "未命名",
+    "學習/clone",
     "express/handleError.md",
     "express/files/Pasted image 20230517230224.png",
     "express/files",
     "工具/MarkDown to PDF.pdf",
-    "工具/MarkDown to PDF.md",
     "前端工程化/Vite+React+Tailwinds.md",
     "laravel.md",
     "工具/mermaid-filter.err",
-    "未命名.md",
     "pip.md",
     "vue+laravel練習/簡易ToDo.md",
     "react/redux/redux.md",
@@ -161,8 +164,6 @@
     "工具/MarkDown to PDF_tmp.html",
     "工具/figure.tex",
     "測試.pdf",
-    "example_with_template.pdf",
-    "工具/example_with_template.pdf",
     "工具/files/image.png",
     "工具/files/pandoc_plugin.png",
     "工具/files/test.png",
@@ -171,7 +172,6 @@
     "智慧時尚教育訓練/教育訓練.md",
     "智慧時尚教育訓練/files/test1.png",
     "結帳.md",
-    "中繼站.md",
     "特店管理系統.md",
     "react/redux/創建store.md",
     "react/redux/元件使用redux.md",
@@ -182,7 +182,6 @@
     "15.郵件與通知.md",
     "學習/laravel/Laravel啟動與運行/章節/3.路由與 controller.md",
     "14.儲存與取回.md",
-    "模板/隱藏.md",
     "未命名.canvas"
   ]
 }
