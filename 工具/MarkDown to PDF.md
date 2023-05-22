@@ -1,5 +1,9 @@
+
 # MarkDown to PDF
+
+
 ## Pandoc
+
 ### 基本使用 
 [安裝Paodnc](https://www.pandoc.org/installing.html)
 [安裝MiKTeX](https://miktex.org/)
@@ -86,7 +90,7 @@ npm install --global mermaid-filter
 
 執行以下
 ```
-pandoc "MarkDown to PDF.md" -o "example_with_template.pdf" --pdf-engine=xelatex --toc --toc-depth=4 --from markdown --template=eisvogel --listings --lua-filter=C:\\Users\\LT10s\\AppData\\Roaming\\pandoc\\filter\\filter.lua -F  mermaid-filter.cmd
+pandoc "MarkDown to PDF.md"  --pdf-engine=xelatex --toc --toc-depth=4 --from markdown --template=eisvogel --listings --lua-filter=C:\\Users\\LT10s\\AppData\\Roaming\\pandoc\\filter\\filter.lua -F  mermaid-filter.cmd -o "example_with_template.pdf"
 ```
 
 
@@ -100,7 +104,23 @@ pandoc "MarkDown to PDF.md" -o "example_with_template.pdf" --pdf-engine=xelatex 
 Pandoc Plugin:Export as PDF(via LaTeX)
 ```
 
+### 改用 WeasyPrint
 
+[安裝Python]([https://www.python.org/downloads/](https://www.python.org/downloads/))
+[安裝weasyprint](https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#installation)
+[安裝GTK](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases)
+
+```
+pip install weasyprint
+```
+執行
+```
+weasyprint input.html output.pdf
+```
+pandoc使用weasyprint
+```
+pandoc 123.md --css=style-portrait.css --standalone --toc --toc-depth=4  --pdf-engine weasyprint --template=template  -o zzz.html
+```
 
 
 ## vscode extensions
@@ -215,6 +235,8 @@ output:
 其餘參考如下
 [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/)
 
+
+
 | test  | ttwet | qwe   |
 | ----- | ----- | ----- |
 | 3r23r | 12142 | 21312 |
@@ -229,4 +251,41 @@ graph TD
   C -->|One| D[Result 1]
   C -->|Two| E[Result 2]
 ```
+
+
+| table1 | table2 | table3 | table4 |
+| ------ | ------ | ------ | ------ |
+| 1      | 2      | 3      | 4      | 
+
+
+<table>
+  <thead>
+    <tr>
+      <th>table1</th>
+      <th>table2</th>
+      <th>table3</th>
+      <th>table4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>6</td>
+      <td>7</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>10</td>
+      <td>11</td>
+      <td>12</td>
+    </tr>
+  </tbody>
+</table>
 
