@@ -122,6 +122,32 @@ pandoc使用weasyprint
 pandoc 123.md --css=style-portrait.css --standalone --toc --toc-depth=4  --pdf-engine weasyprint --template=template  -o zzz.html
 ```
 
+```
+ pandoc 123.md --css=style-portrait.css --standalone --toc --toc-depth=4 --pdf-engine=C:/Users/LT10s/AppData/Local/Programs/Python/Python311/Scripts/weasyprint.exe -o zzz.html
+```
+
+### 客製化
+準備 input.md lua css html
+參照md轉pdf
+寫一個bash markpdf.cmd
+範例如下
+```cmd 
+pandoc input.md -o input.html --pdf-engine=C:/Users/LT10s/AppData/Local/Programs/Python/Python311/Scripts/weasyprint.exe --lua-filter=C:\\Users\\LT10s\\AppData\\Roaming\\pandoc\\filter\\weasyprint-filter.lua --css=./pandoc/mycss.css --standalone --toc --toc-depth=4 --template=./pandoc/myTemplate -F mermaid-filter.cmd 
+
+node ./pandoc/changeHtml.js
+
+weasyprint input.html output.pdf
+
+rm input.html
+rm mermaid-filter.err
+```
+執行
+```
+makepdf.cmd
+```
+
+
+
 
 ## vscode extensions
 <h1>Markdown Preview Enhanced</h1>
@@ -234,58 +260,3 @@ output:
 ```
 其餘參考如下
 [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/)
-
-
-
-| test  | ttwet | qwe   |
-| ----- | ----- | ----- |
-| 3r23r | 12142 | 21312 |
-| 3r23r | 12142 | 21312 |
-| 3r23r | 12142 | 21312 |
-| 3r23r | 12142 | 21312 |
-
-```mermaid
-graph TD
-  A[Hard] -->|Text| B(Round)
-  B --> C{Decision}
-  C -->|One| D[Result 1]
-  C -->|Two| E[Result 2]
-```
-
-
-| table1 | table2 | table3 | table4 |
-| ------ | ------ | ------ | ------ |
-| 1      | 2      | 3      | 4      | 
-
-
-<table>
-  <thead>
-    <tr>
-      <th>table1</th>
-      <th>table2</th>
-      <th>table3</th>
-      <th>table4</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>2</td>
-      <td>3</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>6</td>
-      <td>7</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>10</td>
-      <td>11</td>
-      <td>12</td>
-    </tr>
-  </tbody>
-</table>
-
