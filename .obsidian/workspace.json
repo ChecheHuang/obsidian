@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "0273d66927fabb80",
+            "id": "57be75404e23ebed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "express/express-ts.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 274.5
   },
   "right": {
     "id": "8703b31fe6311761",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "express/express-ts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,20 +135,38 @@
       "templates:插入模板": false
     }
   },
-  "active": "0273d66927fabb80",
+  "active": "57be75404e23ebed",
   "lastOpenFiles": [
-    "未命名.md",
-    "工具/md轉pdf/output.pdf",
+    "express/middleware.md",
+    "express/express-ts.md",
+    "express/server.md",
+    "前端工程化/Vite+React+Tailwinds.md",
+    "express/init.md",
+    "express/files/Pasted image 20230517230224.png",
+    "express/handleError.md",
+    "express/utils.md",
     "工具/MarkDown to PDF.md",
-    "工具/md轉pdf/pandoc/node_modules/jsdom/lib/jsdom/living/helpers/svg/render.js",
-    "工具/md轉pdf/pandoc/node_modules/jsdom/lib/jsdom/living/helpers/svg/basic-types.js",
-    "工具/md轉pdf/pandoc/node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequestUpload-impl.js",
-    "工具/md轉pdf/pandoc/node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequestEventTarget-impl.js",
-    "工具/md轉pdf/pandoc/node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequest-impl.js",
-    "工具/md轉pdf/pandoc/node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js",
-    "工具/md轉pdf/pandoc/node_modules/jsdom/lib/jsdom/living/xhr/xhr-sync-worker.js",
-    "工具/md轉pdf/pandoc/node_modules/jsdom/lib/jsdom/living/xhr/FormData-impl.js",
-    "工具/md轉pdf/pandoc/node_modules/jsdom/lib/jsdom/living/window/SessionHistory.js",
+    "學習/clone/Real-Time Messenger Clone.md",
+    "工作日誌.md",
+    "react/components/Button.tsx.md",
+    "智慧時尚教育訓練/智慧時尚文件/012-程式設計規格書-20230301T021545Z-001/012-程式設計規格書/陽信電商平台-前端技術框架導讀_V0.pdf",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/001-01-商品串接API文件/陽信商店街店家串接公版 API - V1.2.pdf",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信點數/md/陽信點數-Pad.md",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/pdf/20221220-陽信商家端-vue-admin.pdf",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信點數/html/陽信點數-Pad.html",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信點數/pdf/20221220-陽信點數-Pad.pdf",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/md/陽信總後台-vue-admin.md",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/pdf/20221220-陽信總後台-vue-admin.pdf",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/md/陽信商家端-vue-admin.md",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/pdf/20221220-陽信-app_web.pdf",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/html/陽信總後台-vue-admin.html",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/html/陽信商家端-vue-admin.html",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/md/陽信-app_web.md",
+    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/html/陽信-app_web.html",
+    "智慧時尚教育訓練/智慧時尚文件/012-程式設計規格書-20230301T021545Z-001/012-程式設計規格書/陽信生態圈點數平台暨電商平台-Git 發佈流程.png",
+    "react/redux/redux.md",
+    "react/redux/元件使用redux.md",
+    "vue+laravel練習/簡易ToDo.md",
     "工具/md轉pdf/pandoc/node_modules/@tootallnate/once/README.md",
     "工具/md轉pdf/pandoc/node_modules/xmlchars/README.md",
     "工具/md轉pdf/pandoc/node_modules/xml-name-validator/README.md",
@@ -156,33 +174,14 @@
     "工具/md轉pdf/pandoc/node_modules/whatwg-url/README.md",
     "工具/md轉pdf/pandoc/node_modules/whatwg-mimetype/README.md",
     "工具/md轉pdf/pandoc/node_modules/whatwg-encoding/README.md",
-    "工具/md轉pdf/pandoc/node_modules/webidl-conversions/README.md",
-    "工具/md轉pdf/pandoc/node_modules/webidl-conversions/LICENSE.md",
-    "工具/md轉pdf/pandoc/node_modules/w3c-xmlserializer/README.md",
-    "工具/md轉pdf/pandoc/node_modules/w3c-xmlserializer/LICENSE.md",
-    "工具/md轉pdf/pandoc/node_modules/url-parse/README.md",
-    "工具/md轉pdf/pandoc/node_modules/universalify/README.md",
-    "工具/md轉pdf/pandoc/node_modules/tr46/README.md",
-    "工具/md轉pdf/pandoc/node_modules/tr46/LICENSE.md",
-    "工具/md轉pdf/pandoc/node_modules/tough-cookie/README.md",
-    "工具/md轉pdf/pandoc/node_modules/symbol-tree/README.md",
-    "工具/md轉pdf/pandoc/node_modules/saxes/README.md",
-    "工具/md轉pdf/pandoc/node_modules/safer-buffer/Readme.md",
-    "工具/md轉pdf/pandoc/node_modules/safer-buffer/Porting-Buffer.md",
-    "工具/md轉pdf/pandoc/node_modules/requires-port/README.md",
-    "工具/md轉pdf/pandoc/node_modules/querystringify/README.md",
-    "工具/md轉pdf/pandoc/node_modules/punycode/README.md",
-    "工具/md轉pdf/pandoc/node_modules/psl/README.md",
     "工具/md轉pdf/pandoc/node_modules/psl/browserstack-logo.svg",
     "工具/md轉pdf/pandoc/images/cover-image.png",
-    "express/files/Pasted image 20230517230224.png",
     "工具/files/Pasted image 20230516161648.png",
     "工具/files/Pasted image 20230516161552.png",
     "工具/files/Pasted image 20230516154922.png",
     "工具/files/Pasted image 20230516113940.png",
     "工具/files/image.png",
     "工具/files/pandoc_plugin.png",
-    "工具/files/test.png",
     "未命名.canvas"
   ]
 }

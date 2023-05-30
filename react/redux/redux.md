@@ -1,9 +1,3 @@
-# redux
-npm i react-redux redux @reduxjs/toolkit
-1. [[ 創建slice]]
-2. [[創建store]]
-3. [[provider提供給全局元件才能使用]]
-4. [[元件使用redux]]
 
 ``` shell
 npm i react-redux redux @reduxjs/toolkit
