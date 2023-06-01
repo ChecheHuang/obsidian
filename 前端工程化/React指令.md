@@ -77,7 +77,7 @@ import './index.css'
 ;(async () => {
   if (import.meta.env.MODE === 'mock') {
     console.log('引入 mock')
-    const modules = import.meta.glob('@/mock/api/*.ts')
+    const modules = import.meta.glob('@/mock/*.ts')
     Object.keys(modules).forEach(async (key) => {
       await modules[key]()
     })
@@ -221,7 +221,7 @@ const baseConfig = {
   css: {
     preprocessorOptions: {
       scss: {
-        additionalData: '@import \"@/styles/global.scss\";',
+        additionalData: '@import "@/styles/global.scss";',
       },
     },
   },
@@ -235,9 +235,6 @@ const actions = {
   },
   development: {
     server: {
-      port: 3000,
-      host: '0.0.0.0',
-      open: false,
       proxy: {
         '/api': {
           target: 'http://localhost:3000',
@@ -248,14 +245,33 @@ const actions = {
     },
   },
   mock: {
-    plugins: [react(), pages()],
+    plugins: [pages()],
   },
   default: baseConfig,
 }
 export default defineConfig(({ mode = 'default' }) => {
   const extendConfig = actions[mode] ? actions[mode] : actions['development']
-  return { ...baseConfig, ...extendConfig }
-})" > vite.config.ts;
+  return mergeObjects(baseConfig, extendConfig)
+})
+function mergeObjects(obj1, obj2) {
+  const result = { ...obj1 }
+  for (const key in obj2) {
+    if (Object.prototype.hasOwnProperty.call(obj2, key)) {
+      if (Array.isArray(obj2[key]) && Array.isArray(obj1[key])) {
+        result[key] = obj1[key].concat(obj2[key])
+      } else if (
+        typeof obj2[key] === 'object' &&
+        Object.prototype.hasOwnProperty.call(obj1, key)
+      ) {
+        result[key] = mergeObjects(obj1[key], obj2[key])
+      } else {
+        result[key] = obj2[key]
+      }
+    }
+  }
+  return result
+}
+" > vite.config.ts;
 
 mkdir -p src/mock
 echo "import Mock from 'mockjs'
