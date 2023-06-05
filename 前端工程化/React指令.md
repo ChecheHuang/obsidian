@@ -98,6 +98,15 @@ echo "module.exports = {
   plugins: [require('tailwindcss'), require('autoprefixer')],
 }" > postcss.config.js;
 
+echo "/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}" > tailwind.config.js;
+
 echo "module.exports = {
   extends: ['cz'],
   rules: {},
@@ -164,14 +173,7 @@ echo "module.exports = {
 echo "package-lock.json
 node_modules/" > .prettierignore;
 
-echo "/** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}" > tailwind.config.js;
+
 
 echo "import axios from 'axios'
 import React from 'react'
