@@ -133,6 +133,8 @@ node_modules/
 src/serviceWorker.js
 .cz-config.js
 package.json
+package-lock.json
+yarn-lock
 ```
 
 ```javascript

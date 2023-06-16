@@ -18,24 +18,12 @@
             }
           },
           {
-            "id": "57be75404e23ebed",
+            "id": "27dad95b37fa0dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程化/React指令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb51506eb1b0de74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作日誌.md",
+                "file": "前端工程化/創建指令/4.配置路由.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/React指令.md",
+                "file": "前端工程化/創建指令/4.配置路由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,22 +135,36 @@
       "templates:插入模板": false
     }
   },
-  "active": "57be75404e23ebed",
+  "active": "27dad95b37fa0dcf",
   "lastOpenFiles": [
-    "工具/MarkDown to PDF.md",
-    "前端工程化/Vite+React+Tailwinds.md",
+    "前端工程化/創建指令/3.axios配置.md",
+    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
+    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+    "前端工程化/創建指令/4.配置路由.md",
     "前端工程化/React指令.md",
-    "express/utils.md",
-    "express/server.md",
-    "express/express-ts.md",
-    "權限.md",
+    "未命名.md",
     "工作日誌.md",
+    "react/react-query.md",
+    "未命名 1.md",
+    "前端工程化/創建指令",
+    "react/components/Button.tsx.md",
+    "express/express-ts.md",
     "express/middleware.md",
+    "express/server.md",
+    "react/React Hook Form.md",
+    "想要做的.md",
+    "files/Pasted image 20230614093150.png",
+    "files",
+    "前端工程化/Vite+React+Tailwinds.md",
+    "學習/typescript/TypeScript TS 快速入門｜Tiktok工程師帶你入門前端｜布魯斯前端.md",
+    "學習/typescript/typeScript問題.md",
+    "工具/MarkDown to PDF.md",
+    "express/utils.md",
+    "權限.md",
     "express/init.md",
     "express/files/Pasted image 20230517230224.png",
     "express/handleError.md",
     "學習/clone/Real-Time Messenger Clone.md",
-    "react/components/Button.tsx.md",
     "智慧時尚教育訓練/智慧時尚文件/012-程式設計規格書-20230301T021545Z-001/012-程式設計規格書/陽信電商平台-前端技術框架導讀_V0.pdf",
     "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/001-01-商品串接API文件/陽信商店街店家串接公版 API - V1.2.pdf",
     "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信點數/md/陽信點數-Pad.md",
@@ -171,22 +173,9 @@
     "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信點數/pdf/20221220-陽信點數-Pad.pdf",
     "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/md/陽信總後台-vue-admin.md",
     "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/pdf/20221220-陽信總後台-vue-admin.pdf",
-    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/md/陽信商家端-vue-admin.md",
     "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/pdf/20221220-陽信-app_web.pdf",
     "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/html/陽信總後台-vue-admin.html",
-    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/html/陽信商家端-vue-admin.html",
-    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/md/陽信-app_web.md",
-    "智慧時尚教育訓練/智慧時尚文件/001-API介接規格書-20230301T021530Z-001/001-API介接規格書/api文檔/陽信電商/html/陽信-app_web.html",
     "智慧時尚教育訓練/智慧時尚文件/012-程式設計規格書-20230301T021545Z-001/012-程式設計規格書/陽信生態圈點數平台暨電商平台-Git 發佈流程.png",
-    "react/redux/redux.md",
-    "react/redux/元件使用redux.md",
-    "vue+laravel練習/簡易ToDo.md",
-    "工具/md轉pdf/pandoc/node_modules/@tootallnate/once/README.md",
-    "工具/md轉pdf/pandoc/node_modules/xmlchars/README.md",
-    "工具/md轉pdf/pandoc/node_modules/xml-name-validator/README.md",
-    "工具/md轉pdf/pandoc/node_modules/ws/README.md",
-    "工具/md轉pdf/pandoc/node_modules/whatwg-url/README.md",
-    "工具/md轉pdf/pandoc/node_modules/whatwg-mimetype/README.md",
     "工具/md轉pdf/pandoc/node_modules/psl/browserstack-logo.svg",
     "工具/md轉pdf/pandoc/images/cover-image.png",
     "工具/files/Pasted image 20230516161648.png",
@@ -194,7 +183,6 @@
     "工具/files/Pasted image 20230516154922.png",
     "工具/files/Pasted image 20230516113940.png",
     "工具/files/image.png",
-    "工具/files/pandoc_plugin.png",
     "未命名.canvas"
   ]
 }
