@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55271e6ca34e3a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端工程化/創建指令/6.配置自動生成.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/創建指令/5.使用shadcn-ui.md",
+                "file": "前端工程化/創建指令/6.配置自動生成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,19 +150,21 @@
       "templates:插入模板": false
     }
   },
-  "active": "5e18359e05810948",
+  "active": "55271e6ca34e3a33",
   "lastOpenFiles": [
-    "react/components/Button.tsx.md",
-    "模板/HTML-TABLE.md",
+    "未命名.md",
+    "前端工程化/創建指令/6.配置自動生成.md",
+    "未命名 1.md",
     "前端工程化/創建指令/5.使用shadcn-ui.md",
     "前端工程化/創建指令/4.配置路由.md",
     "前端工程化/創建指令/3.axios配置.md",
-    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
     "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
+    "react/components/Button.tsx.md",
+    "模板/HTML-TABLE.md",
     "前端工程化/React指令.md",
     "前端工程化/Vite+React+Tailwinds.md",
     "前端工程化/vite+vue.md",
-    "未命名.md",
     "想要做的.md",
     "前端工程化/創建指令",
     "react/react-query.md",
@@ -180,8 +194,6 @@
     "模板/隱藏.md",
     "模板/隱藏code.md",
     "工具/MarkDown to PDF.md",
-    "模板/換頁.md",
-    "測試.md",
     "前端工程化/files/Pasted image 20230513233628.png",
     "資料庫圖片/sunnyds/yxds_orders.png",
     "資料庫圖片/sunny_twczw_webs/yx_order.png",
