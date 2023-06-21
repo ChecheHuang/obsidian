@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/components/Button.tsx.md",
+                "file": "前端工程化/創建指令/4.配置路由.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/components/Button.tsx.md",
+                "file": "前端工程化/創建指令/4.配置路由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "2c874ec83d4b5d88",
   "lastOpenFiles": [
+    "react/components/Button.tsx.md",
     "模板/HTML-TABLE.md",
     "未命名.md",
     "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
@@ -152,7 +153,6 @@
     "前端工程化/創建指令/5.使用shadcn-ui.md",
     "前端工程化/創建指令/路由創建.md",
     "前端工程化/創建指令/6.配置自動生成.md",
-    "react/components/Button.tsx.md",
     "前端工程化/vite+vue.md",
     "想要做的.md",
     "前端工程化/創建指令",
