@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程化/創建指令/路由創建.md",
+                "file": "前端工程化/創建指令/4.配置路由.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/創建指令/路由創建.md",
+                "file": "前端工程化/創建指令/4.配置路由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,13 +164,14 @@
   },
   "active": "31f05126e7e9bb17",
   "lastOpenFiles": [
+    "前端工程化/創建指令/未命名 1.md",
     "前端工程化/創建指令/4.配置路由.md",
-    "前端工程化/創建指令/路由創建.md",
-    "前端工程化/創建指令/6.配置自動生成.md",
-    "前端工程化/創建指令/5.使用shadcn-ui.md",
+    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
     "前端工程化/創建指令/3.axios配置.md",
     "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
-    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+    "前端工程化/創建指令/5.使用shadcn-ui.md",
+    "前端工程化/創建指令/路由創建.md",
+    "前端工程化/創建指令/6.配置自動生成.md",
     "react/components/Button.tsx.md",
     "前端工程化/Vite+React+Tailwinds.md",
     "前端工程化/vite+vue.md",
@@ -205,7 +206,6 @@
     "files/Pasted image 20230516113110.png",
     "模板/隱藏.md",
     "模板/隱藏code.md",
-    "工具/MarkDown to PDF.md",
     "前端工程化/files/Pasted image 20230513233628.png",
     "資料庫圖片/sunnyds/yxds_orders.png",
     "資料庫圖片/sunny_twczw_webs/yx_order.png",
