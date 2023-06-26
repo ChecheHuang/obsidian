@@ -24,7 +24,19 @@
               "type": "markdown",
               "state": {
                 "file": "前端工程化/創建指令/4.配置路由.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31f05126e7e9bb17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -116,36 +128,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "command-palette:開啟命令面板": false,
       "markdown-importer:開啟 Markdown 格式轉換器": false,
-      "templates:插入模板": false,
       "terminal:Open terminal": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "templates:插入模板": false
     }
   },
   "active": "2c874ec83d4b5d88",
   "lastOpenFiles": [
-    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
-    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+    "想要做的.md",
     "前端工程化/創建指令/4.配置路由.md",
-    "前端工程化/創建指令/3.axios配置.md",
-    "前端工程化/創建指令/5.使用shadcn-ui.md",
-    "模板/隱藏.md",
-    "模板/HTML-TABLE.md",
-    "模板/換頁.md",
-    "模板/隱藏code.md",
+    "test.html",
     "react/components/Button.tsx.md",
+    "模板/HTML-TABLE.md",
     "未命名.md",
+    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
     "前端工程化/Vite+React+Tailwinds.md",
     "前端工程化/React指令.md",
     "前端工程化/創建指令/未命名 1.md",
+    "前端工程化/創建指令/3.axios配置.md",
+    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
+    "前端工程化/創建指令/5.使用shadcn-ui.md",
     "前端工程化/創建指令/路由創建.md",
     "前端工程化/創建指令/6.配置自動生成.md",
     "前端工程化/vite+vue.md",
-    "想要做的.md",
     "前端工程化/創建指令",
     "react/react-query.md",
     "react/React Hook Form.md",
@@ -158,7 +168,6 @@
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-SemiBoldItalic.ttf",
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-SemiBold.ttf",
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-Regular.ttf",
-    "工具/md轉pdf/pandoc/fonts/IBMPlexSans-MediumItalic.ttf",
     "工具/md轉pdf/input.md",
     "工具/files/Pasted image 20230516161648.png",
     "工具/files/Pasted image 20230516161552.png",
@@ -167,9 +176,11 @@
     "express/middleware.md",
     "express/express-ts.md",
     "工具/test.md",
+    "express/handleError.md",
     "express/files/Pasted image 20230517230224.png",
     "工具/files/Pasted image 20230516113940.png",
     "files/Pasted image 20230516113110.png",
+    "模板/隱藏.md",
     "前端工程化/files/Pasted image 20230513233628.png",
     "資料庫圖片/sunnyds/yxds_orders.png",
     "資料庫圖片/sunny_twczw_webs/yx_order.png",
