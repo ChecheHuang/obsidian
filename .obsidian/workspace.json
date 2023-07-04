@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程化/創建指令/5.使用shadcn-ui.md",
+                "file": "mysql/xampp重置.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/創建指令/5.使用shadcn-ui.md",
+                "file": "mysql/xampp重置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,11 +140,14 @@
   },
   "active": "2c874ec83d4b5d88",
   "lastOpenFiles": [
-    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
-    "前端工程化/創建指令/4.配置路由.md",
+    "mysql/files/Pasted image 20230704080518.png",
+    "mysql/files",
     "前端工程化/創建指令/5.使用shadcn-ui.md",
-    "前端工程化/創建指令/3.axios配置.md",
+    "mysql/xampp重置.md",
+    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
     "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+    "前端工程化/創建指令/4.配置路由.md",
+    "前端工程化/創建指令/3.axios配置.md",
     "工具/files/Pasted image 20230516161648.png",
     "工具/files/Pasted image 20230627112937.png",
     "工具/files/Pasted image 20230516161552.png",
@@ -168,7 +171,6 @@
     "前端工程化/創建指令/未命名 1.md",
     "前端工程化/創建指令/路由創建.md",
     "前端工程化/創建指令/6.配置自動生成.md",
-    "前端工程化/vite+vue.md",
     "前端工程化/創建指令",
     "工具/md轉pdf/pandoc/images/cover-image.png",
     "工具/md轉pdf/pandoc/fonts/license.txt",
@@ -178,7 +180,6 @@
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-Text.ttf",
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-SemiBoldItalic.ttf",
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-SemiBold.ttf",
-    "工具/md轉pdf/pandoc/fonts/IBMPlexSans-Regular.ttf",
     "express/files/Pasted image 20230517230224.png",
     "工具/files/Pasted image 20230516113940.png",
     "files/Pasted image 20230516113110.png",
