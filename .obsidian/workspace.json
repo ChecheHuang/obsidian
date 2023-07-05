@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程化/創建指令/5.使用shadcn-ui.md",
+                "file": "前端工程化/創建指令/4.配置路由.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/創建指令/5.使用shadcn-ui.md",
+                "file": "前端工程化/創建指令/4.配置路由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +128,7 @@
   },
   "active": "2c874ec83d4b5d88",
   "lastOpenFiles": [
+    "前端工程化/創建指令/5.使用shadcn-ui.md",
     "前端工程化/創建指令/4.配置路由.md",
     "前端工程化/創建指令/3.axios配置.md",
     "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
@@ -140,7 +141,6 @@
     "mysql/xampp重置.md",
     "mysql/files/Pasted image 20230704080518.png",
     "mysql/files",
-    "前端工程化/創建指令/5.使用shadcn-ui.md",
     "工具/files/Pasted image 20230627112937.png",
     "想要做的.md",
     "特店管理系統.md",
