@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程化/創建指令/4.配置路由.md",
+                "file": "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/創建指令/4.配置路由.md",
+                "file": "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,11 +128,13 @@
   },
   "active": "2c874ec83d4b5d88",
   "lastOpenFiles": [
-    "前端工程化/創建指令/5.使用shadcn-ui.md",
+    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
     "前端工程化/創建指令/4.配置路由.md",
     "前端工程化/創建指令/3.axios配置.md",
     "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
-    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+    "工作日誌.md",
+    "未命名.md",
+    "前端工程化/創建指令/5.使用shadcn-ui.md",
     "react/redux/redux.md",
     "工具/MarkDown to PDF.md",
     "react/react-query.md",
@@ -144,9 +146,7 @@
     "工具/files/Pasted image 20230627112937.png",
     "想要做的.md",
     "特店管理系統.md",
-    "未命名.md",
     "加扣點回覆檔.md",
-    "工作日誌.md",
     "0428海光宮.md",
     "新功能開發.md",
     "測試.md",
