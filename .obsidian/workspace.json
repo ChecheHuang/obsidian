@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
+                "file": "工作日誌.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1f09e3e97d2e0bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端工程化/創建指令/3.axios配置.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
+                "file": "前端工程化/創建指令/3.axios配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,13 +138,14 @@
       "templates:插入模板": false
     }
   },
-  "active": "2c874ec83d4b5d88",
+  "active": "b1f09e3e97d2e0bd",
   "lastOpenFiles": [
-    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
     "前端工程化/創建指令/4.配置路由.md",
+    "PetNi.md",
+    "工作日誌.md",
     "前端工程化/創建指令/3.axios配置.md",
     "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
-    "工作日誌.md",
+    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
     "未命名.md",
     "前端工程化/創建指令/5.使用shadcn-ui.md",
     "react/redux/redux.md",
@@ -159,7 +172,6 @@
     "前端工程化/Vite+React+Tailwinds.md",
     "前端工程化/React指令.md",
     "前端工程化/創建指令/未命名 1.md",
-    "前端工程化/創建指令/路由創建.md",
     "前端工程化/創建指令",
     "工具/md轉pdf/pandoc/images/cover-image.png",
     "工具/md轉pdf/pandoc/fonts/license.txt",
