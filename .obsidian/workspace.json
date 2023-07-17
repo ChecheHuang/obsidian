@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程化/創建指令/3.axios配置.md",
+                "file": "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/創建指令/3.axios配置.md",
+                "file": "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,13 +140,15 @@
   },
   "active": "b1f09e3e97d2e0bd",
   "lastOpenFiles": [
-    "前端工程化/創建指令/4.配置路由.md",
-    "PetNi.md",
-    "工作日誌.md",
-    "前端工程化/創建指令/3.axios配置.md",
     "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
     "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+    "前端工程化/創建指令/3.axios配置.md",
+    "工作日誌.md",
     "未命名.md",
+    "學習/laravel/使用Laravel 8 PHP 主流框架打造RESTful API/章節/使用Laravel 8 PHP 主流框架打造RESTful API.md",
+    "智慧時尚教育訓練/教育訓練.md",
+    "前端工程化/創建指令/4.配置路由.md",
+    "PetNi.md",
     "前端工程化/創建指令/5.使用shadcn-ui.md",
     "react/redux/redux.md",
     "工具/MarkDown to PDF.md",
@@ -165,13 +167,11 @@
     "測試.md",
     "中繼站.md",
     "laravel.md",
-    "智慧時尚教育訓練/教育訓練.md",
     "test.html",
     "react/components/Button.tsx.md",
     "模板/HTML-TABLE.md",
     "前端工程化/Vite+React+Tailwinds.md",
     "前端工程化/React指令.md",
-    "前端工程化/創建指令/未命名 1.md",
     "前端工程化/創建指令",
     "工具/md轉pdf/pandoc/images/cover-image.png",
     "工具/md轉pdf/pandoc/fonts/license.txt",
