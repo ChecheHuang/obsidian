@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+                "file": "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+                "file": "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "b1f09e3e97d2e0bd",
   "lastOpenFiles": [
+    "前端工程化/創建指令/5.使用shadcn-ui.md",
     "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
     "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
     "前端工程化/創建指令/3.axios配置.md",
@@ -149,7 +150,6 @@
     "智慧時尚教育訓練/教育訓練.md",
     "前端工程化/創建指令/4.配置路由.md",
     "PetNi.md",
-    "前端工程化/創建指令/5.使用shadcn-ui.md",
     "react/redux/redux.md",
     "工具/MarkDown to PDF.md",
     "react/react-query.md",
