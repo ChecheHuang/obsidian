@@ -23,26 +23,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日誌.md",
+                "file": "react/components/Button.tsx.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b1f09e3e97d2e0bd",
+            "id": "0998fd3cd97aacbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
+                "file": "PetNi.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7da09f81b8f11e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "雜項.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 201.5
   },
   "right": {
     "id": "8703b31fe6311761",
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
+                "file": "雜項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,41 +150,29 @@
       "templates:插入模板": false
     }
   },
-  "active": "b1f09e3e97d2e0bd",
+  "active": "a7da09f81b8f11e2",
   "lastOpenFiles": [
-    "前端工程化/創建指令/5.使用shadcn-ui.md",
-    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
-    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
-    "前端工程化/創建指令/3.axios配置.md",
-    "工作日誌.md",
-    "未命名.md",
-    "學習/laravel/使用Laravel 8 PHP 主流框架打造RESTful API/章節/使用Laravel 8 PHP 主流框架打造RESTful API.md",
-    "智慧時尚教育訓練/教育訓練.md",
-    "前端工程化/創建指令/4.配置路由.md",
     "PetNi.md",
-    "react/redux/redux.md",
-    "工具/MarkDown to PDF.md",
-    "react/react-query.md",
-    "工具/files/Pasted image 20230516161648.png",
-    "工具/files/Pasted image 20230516161552.png",
+    "雜項.md",
+    "前端工程化/創建指令/5.使用shadcn-ui.md",
     "mysql/xampp重置.md",
     "mysql/files/Pasted image 20230704080518.png",
     "mysql/files",
-    "工具/files/Pasted image 20230627112937.png",
-    "想要做的.md",
-    "特店管理系統.md",
-    "加扣點回覆檔.md",
-    "0428海光宮.md",
-    "新功能開發.md",
-    "測試.md",
-    "中繼站.md",
-    "laravel.md",
-    "test.html",
-    "react/components/Button.tsx.md",
+    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
+    "前端工程化/創建指令/4.配置路由.md",
+    "前端工程化/創建指令/3.axios配置.md",
+    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
     "模板/HTML-TABLE.md",
+    "前端工程化/創建指令/路由創建.md",
+    "前端工程化/vite+vue.md",
     "前端工程化/Vite+React+Tailwinds.md",
     "前端工程化/React指令.md",
+    "前端工程化/創建指令/6.配置自動生成.md",
+    "react/components/Button.tsx.md",
+    "想要做的.md",
     "前端工程化/創建指令",
+    "react/react-query.md",
+    "react/React Hook Form.md",
     "工具/md轉pdf/pandoc/images/cover-image.png",
     "工具/md轉pdf/pandoc/fonts/license.txt",
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-ThinItalic.ttf",
@@ -181,10 +181,22 @@
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-Text.ttf",
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-SemiBoldItalic.ttf",
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-SemiBold.ttf",
+    "工具/md轉pdf/pandoc/fonts/IBMPlexSans-Regular.ttf",
+    "工具/md轉pdf/input.md",
+    "工具/files/Pasted image 20230516161648.png",
+    "工具/files/Pasted image 20230516161552.png",
+    "express/utils.md",
+    "express/server.md",
+    "express/middleware.md",
+    "express/express-ts.md",
+    "工具/test.md",
+    "express/handleError.md",
     "express/files/Pasted image 20230517230224.png",
     "工具/files/Pasted image 20230516113940.png",
     "files/Pasted image 20230516113110.png",
+    "模板/隱藏.md",
     "前端工程化/files/Pasted image 20230513233628.png",
-    "資料庫圖片/sunnyds/yxds_orders.png"
+    "資料庫圖片/sunnyds/yxds_orders.png",
+    "資料庫圖片/sunny_twczw_webs/yx_order.png"
   ]
 }
