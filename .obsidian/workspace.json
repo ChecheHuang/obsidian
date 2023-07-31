@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+                "file": "前端工程化/創建指令/4.配置路由.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+                "file": "前端工程化/創建指令/4.配置路由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,16 @@
   },
   "active": "5770aa302378b6ba",
   "lastOpenFiles": [
-    "雜項.md",
     "工作日誌.md",
+    "未命名.md",
+    "想要做的.md",
+    "雜項.md",
+    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
     "為你自己學Git.md",
     "書本",
     "files/Pasted image 20230719145833.png",
     "react/React Hook Form.md",
-    "未命名.md",
     "智慧時尚教育訓練/教育訓練.md",
-    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
     "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
     "前端工程化/創建指令/3.axios配置.md",
     "前端工程化/創建指令/4.配置路由.md",
@@ -152,7 +153,6 @@
     "mysql/files/Pasted image 20230704080518.png",
     "mysql/files",
     "工具/files/Pasted image 20230627112937.png",
-    "想要做的.md",
     "特店管理系統.md",
     "加扣點回覆檔.md",
     "0428海光宮.md",
