@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程化/創建指令/4.配置路由.md",
+                "file": "雜項.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/創建指令/4.配置路由.md",
+                "file": "雜項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,10 +128,12 @@
   },
   "active": "5770aa302378b6ba",
   "lastOpenFiles": [
-    "工作日誌.md",
-    "未命名.md",
+    "PetNi.md",
     "想要做的.md",
     "雜項.md",
+    "未命名.md",
+    "前端工程化/創建指令/4.配置路由.md",
+    "工作日誌.md",
     "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
     "為你自己學Git.md",
     "書本",
@@ -140,10 +142,8 @@
     "智慧時尚教育訓練/教育訓練.md",
     "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
     "前端工程化/創建指令/3.axios配置.md",
-    "前端工程化/創建指令/4.配置路由.md",
     "前端工程化/創建指令/5.使用shadcn-ui.md",
     "學習/laravel/使用Laravel 8 PHP 主流框架打造RESTful API/章節/使用Laravel 8 PHP 主流框架打造RESTful API.md",
-    "PetNi.md",
     "react/redux/redux.md",
     "工具/MarkDown to PDF.md",
     "react/react-query.md",
