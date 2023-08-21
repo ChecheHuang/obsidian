@@ -18,43 +18,19 @@
             }
           },
           {
-            "id": "f330bda789530679",
+            "id": "7e3da5f3f032f368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "next/Pages&Layout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71c481ac5bcb5e0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "next/Revalidation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d043a4bed108cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
+                "file": "智慧時尚教育訓練/教育訓練.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
+                "file": "智慧時尚教育訓練/教育訓練.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,39 +126,39 @@
       "templates:插入模板": false
     }
   },
-  "active": "6d043a4bed108cfd",
+  "active": "7e3da5f3f032f368",
   "lastOpenFiles": [
+    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+    "特店管理系統.md",
+    "為你自己學Git.md",
+    "mysql/xampp重置.md",
+    "files/Pasted image 20230814180427.png",
+    "雜項.md",
+    "PetNi.md",
+    "智慧時尚教育訓練/教育訓練.md",
+    "工具/MarkDown to PDF.md",
+    "未命名.md",
+    "未命名 1.md",
+    "想要做的.md",
+    "next/Rest Api.md",
+    "next/Pages&Layout.md",
+    "前端工程化/創建指令/5.使用shadcn-ui.md",
+    "next/Revalidation.md",
+    "前端工程化/創建指令/4.配置路由.md",
     "前端工程化/創建指令/3.axios配置.md",
     "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
-    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
-    "next/Pages&Layout.md",
-    "未命名.md",
     "Mutations.md",
-    "next/Revalidation.md",
     "next/Middleware.md",
-    "next/Rest Api.md",
     "next/Route Handlers.md",
     "next/SSG,SSR,ISR.md",
     "next/Fetching Data.md",
     "next",
     "files/Pasted image 20230804093746.png",
     "files/Pasted image 20230804105609.png",
-    "工具/MarkDown to PDF.md",
-    "雜項.md",
-    "PetNi.md",
     "0428海光宮.md",
-    "想要做的.md",
-    "前端工程化/創建指令/4.配置路由.md",
     "工作日誌.md",
-    "為你自己學Git.md",
     "書本",
     "files/Pasted image 20230719145833.png",
-    "react/React Hook Form.md",
-    "智慧時尚教育訓練/教育訓練.md",
-    "前端工程化/創建指令/5.使用shadcn-ui.md",
-    "學習/laravel/使用Laravel 8 PHP 主流框架打造RESTful API/章節/使用Laravel 8 PHP 主流框架打造RESTful API.md",
-    "react/redux/redux.md",
-    "react/react-query.md",
     "工具/files/Pasted image 20230516161648.png",
     "工具/files/Pasted image 20230516161552.png",
     "mysql/files/Pasted image 20230704080518.png",
@@ -196,7 +172,6 @@
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-Thin.ttf",
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-TextItalic.ttf",
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-Text.ttf",
-    "express/files/Pasted image 20230517230224.png",
-    "工具/files/Pasted image 20230516113940.png"
+    "express/files/Pasted image 20230517230224.png"
   ]
 }

@@ -1,12 +1,13 @@
-next
-shadcn
-react-hook-form
-zod
-react-query
-@mantine/hooks
-@radix-ui
-prisma
-next-auth
-react-dropzone
-swiper
+- [ ] next
+- [ ] shadcn
+- [ ] react-hook-form
+- [ ] zod
+- [ ] react-query
+- [ ] @radix-ui
+- [ ] prisma
+- [ ] next-auth
+- [ ] react-dropzone
+- [ ] swiper
+- [ ] framar-motion
+
 
