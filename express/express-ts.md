@@ -1,12 +1,12 @@
 ## init
 ```bash
-pnpm init 
+npm init -y 
 
-pnpm add @types/cors @types/express @types/http-errors @types/module-alias @types/node @typescript-eslint/eslint-plugin @typescript-eslint/parser cross-env eslint eslint-config-prettier eslint-plugin-prettier prettier ts-node-dev tsconfig-paths typescript @types/jsonwebtoken
+pnpm add -D @types/cors @types/express @types/http-errors @types/module-alias @types/node @typescript-eslint/eslint-plugin @typescript-eslint/parser cross-env eslint eslint-config-prettier eslint-plugin-prettier prettier ts-node-dev tsconfig-paths typescript @types/jsonwebtoken
 
-pnpm add -D @types/body-parser body-parser cors dotenv express http-errors module-alias jsonwebtoken
+pnpm add  @types/body-parser body-parser cors dotenv express http-errors module-alias jsonwebtoken
 
-pnpm pkg set scripts.start="pnpm run build && cross-env NODE_ENV=production node -r tsconfig-paths/register ./dist/server.js"
+pnpm pkg set scripts.start="npm run build && cross-env NODE_ENV=production node -r tsconfig-paths/register ./dist/server.js"
 
 pnpm pkg set scripts.dev="cross-env NODE_ENV=development ts-node-dev -r ./tsconfig-paths-bootstrap.js src/server.ts"
 
@@ -81,11 +81,12 @@ echo '{
     "printWidth": 130,
     "semi": false,
     "endOfLine": "auto"
-}' > .pretterrc;
+}' > .prettierrc;
 
 echo 'dist
 node_modules' > .eslintignore;
 ```
+
 
 ```bash
 mkdir -p public 

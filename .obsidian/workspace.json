@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "1a76a718eda476a3",
+            "id": "0529f2688078067c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0428海光宮.md",
+                "file": "雜項.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0428海光宮.md",
+                "file": "雜項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,16 +126,20 @@
       "templates:插入模板": false
     }
   },
-  "active": "1a76a718eda476a3",
+  "active": "0529f2688078067c",
   "lastOpenFiles": [
+    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+    "前端工程化/創建指令/4.配置路由.md",
+    "express/express-ts.md",
+    "前端工程化/創建指令/5.使用shadcn-ui.md",
+    "雜項.md",
+    "0428海光宮.md",
     "工作日誌.md",
     "想要做的.md",
     "特店管理系統.md",
     "為你自己學Git.md",
     "加扣點回覆檔.md",
     "工具/MarkDown to PDF.md",
-    "0428海光宮.md",
-    "前端工程化/創建指令/4.配置路由.md",
     "next/Route Handlers.md",
     "next/Revalidation.md",
     "next/Rest Api.md",
@@ -143,14 +147,10 @@
     "next/Middleware.md",
     "next/Fetching Data.md",
     "next/SSG,SSR,ISR.md",
-    "express/express-ts.md",
     "files/Pasted image 20230814180427.png",
-    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
     "express/middleware.md",
     "express/express.d.ts.md",
-    "雜項.md",
     "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
-    "前端工程化/創建指令/5.使用shadcn-ui.md",
     "前端工程化/創建指令/3.axios配置.md",
     "智慧時尚教育訓練/教育訓練.md",
     "mysql/xampp重置.md",
