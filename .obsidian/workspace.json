@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1432d0327af01baa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trpc+next auth/trpc+next auth+prisma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "雜項.md",
+                "file": "trpc+next auth/trpc+next auth+prisma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +116,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "075a3cbcac30cf3a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -126,13 +148,17 @@
       "templates:插入模板": false
     }
   },
-  "active": "0529f2688078067c",
+  "active": "1432d0327af01baa",
   "lastOpenFiles": [
-    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
-    "前端工程化/創建指令/4.配置路由.md",
-    "express/express-ts.md",
-    "前端工程化/創建指令/5.使用shadcn-ui.md",
+    "trpc+next auth",
     "雜項.md",
+    "trpc+next auth/trpc+next auth+prisma.md",
+    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+    "前端工程化/創建指令/3.axios配置.md",
+    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
+    "前端工程化/創建指令/4.配置路由.md",
+    "前端工程化/創建指令/5.使用shadcn-ui.md",
+    "express/express-ts.md",
     "0428海光宮.md",
     "工作日誌.md",
     "想要做的.md",
@@ -150,11 +176,7 @@
     "files/Pasted image 20230814180427.png",
     "express/middleware.md",
     "express/express.d.ts.md",
-    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
-    "前端工程化/創建指令/3.axios配置.md",
     "智慧時尚教育訓練/教育訓練.md",
-    "mysql/xampp重置.md",
-    "PetNi.md",
     "next",
     "files/Pasted image 20230804093746.png",
     "files/Pasted image 20230804105609.png",
