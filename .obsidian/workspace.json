@@ -23,19 +23,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "雜項.md",
+                "file": "prisma+next auth+trpc/TRPC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1432d0327af01baa",
+            "id": "3b626408ae55f345",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trpc+next auth/trpc+next auth+prisma.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trpc+next auth/trpc+next auth+prisma.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +128,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "b1069a8b26ed58f1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -148,35 +157,36 @@
       "templates:插入模板": false
     }
   },
-  "active": "1432d0327af01baa",
+  "active": "3b626408ae55f345",
   "lastOpenFiles": [
-    "trpc+next auth",
-    "雜項.md",
-    "trpc+next auth/trpc+next auth+prisma.md",
+    "想要做的.md",
+    "未命名.md",
+    "prisma+next auth+trpc/TRPC.md",
+    "prisma+next auth+trpc/Next Auth.md",
+    "prisma+next auth+trpc/trpc+next auth+prisma.md",
+    "prisma+next auth+trpc/Prisma.md",
     "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+    "0428海光宮.md",
+    "PetNi.md",
+    "雜項.md",
+    "files/Pasted image 20230814180427.png",
+    "加扣點回覆檔.md",
+    "express/express-ts.md",
+    "mysql/xampp重置.md",
+    "prisma+next auth+trpc",
     "前端工程化/創建指令/3.axios配置.md",
     "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
     "前端工程化/創建指令/4.配置路由.md",
     "前端工程化/創建指令/5.使用shadcn-ui.md",
-    "express/express-ts.md",
-    "0428海光宮.md",
     "工作日誌.md",
-    "想要做的.md",
     "特店管理系統.md",
     "為你自己學Git.md",
-    "加扣點回覆檔.md",
     "工具/MarkDown to PDF.md",
     "next/Route Handlers.md",
     "next/Revalidation.md",
     "next/Rest Api.md",
     "next/Pages&Layout.md",
     "next/Middleware.md",
-    "next/Fetching Data.md",
-    "next/SSG,SSR,ISR.md",
-    "files/Pasted image 20230814180427.png",
-    "express/middleware.md",
-    "express/express.d.ts.md",
-    "智慧時尚教育訓練/教育訓練.md",
     "next",
     "files/Pasted image 20230804093746.png",
     "files/Pasted image 20230804105609.png",
@@ -194,7 +204,6 @@
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-ThinItalic.ttf",
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-Thin.ttf",
     "工具/md轉pdf/pandoc/fonts/IBMPlexSans-TextItalic.ttf",
-    "工具/md轉pdf/pandoc/fonts/IBMPlexSans-Text.ttf",
     "express/files/Pasted image 20230517230224.png"
   ]
 }
