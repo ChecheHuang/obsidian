@@ -6,11 +6,11 @@ pnpm add -D @types/cors @types/express @types/http-errors @types/module-alias @t
 
 pnpm add  @types/body-parser body-parser cors dotenv express http-errors module-alias jsonwebtoken
 
-pnpm pkg set scripts.start="npm run build && cross-env NODE_ENV=production node -r tsconfig-paths/register ./dist/server.js"
+npm pkg set scripts.start="npm run build && cross-env NODE_ENV=production node -r tsconfig-paths/register ./dist/server.js"
 
-pnpm pkg set scripts.dev="cross-env NODE_ENV=development ts-node-dev -r ./tsconfig-paths-bootstrap.js src/server.ts"
+npm pkg set scripts.dev="cross-env NODE_ENV=development ts-node-dev -r ./tsconfig-paths-bootstrap.js src/server.ts"
 
-pnpm pkg set scripts.build="npx tsc "
+npm pkg set scripts.build="npx tsc "
 
 ```
 

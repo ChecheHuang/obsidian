@@ -85,4 +85,3 @@ export const config = {
 }
 ```
 
-台北市中山區長春路176號4樓
