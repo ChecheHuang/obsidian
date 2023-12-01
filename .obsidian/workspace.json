@@ -18,19 +18,7 @@
             }
           },
           {
-            "id": "0529f2688078067c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prisma+next auth+trpc/TRPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4f4d6cf5ab01681",
+            "id": "61dce4b102a58c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,21 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6bd393019cbb6755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plugin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plugin.md",
+                "file": "工具/MarkDown to PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,40 +144,41 @@
       "templates:插入模板": false
     }
   },
-  "active": "6bd393019cbb6755",
+  "active": "61dce4b102a58c81",
   "lastOpenFiles": [
+    "工具/log.md",
+    "工具/axios.md",
+    "工具/vite設定.md",
+    "工具/tailwind css.md",
     "工具/MarkDown to PDF.md",
-    "plugin.md",
-    "工具/files/Pasted image 20230516161648.png",
-    "工具/files/Pasted image 20230516161552.png",
+    "學習/正規表達式.md",
+    "學習/typescript/typeScript問題.md",
+    "學習/typescript/TypeScript TS 快速入門｜Tiktok工程師帶你入門前端｜布魯斯前端.md",
+    "express/express-ts.md",
+    "mysql/xampp重置.md",
+    "files/Pasted image 20230814180427.png",
     "react/React Hook Form.md",
     "react/components/Button.tsx.md",
-    "express/express-ts.md",
-    "files/Pasted image 20230814180427.png",
-    "files/Pasted image 20231102104141.png",
+    "0428海光宮.md",
+    "加扣點回覆檔.md",
     "未命名.md",
     "計畫.md",
     "想要做的.md",
-    "prisma+next auth+trpc/TRPC.md",
-    "mysql/xampp重置.md",
-    "react/redux/redux.md",
-    "react/redux/files/Pasted image 20231023113757.png",
-    "react/redux/files",
-    "加扣點回覆檔.md",
     "雜項.md",
     "PetNi.md",
     "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
-    "prisma+next auth+trpc/Prisma.md",
-    "prisma+next auth+trpc/Next Auth.md",
-    "prisma+next auth+trpc/trpc+next auth+prisma.md",
-    "0428海光宮.md",
-    "prisma+next auth+trpc",
-    "前端工程化/創建指令/3.axios配置.md",
-    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
     "前端工程化/創建指令/4.配置路由.md",
     "前端工程化/創建指令/5.使用shadcn-ui.md",
-    "特店管理系統.md",
-    "為你自己學Git.md",
+    "plugin.md",
+    "工具/files/Pasted image 20230516161552.png",
+    "prisma+next auth+trpc/TRPC.md",
+    "工具/files/Pasted image 20230516161648.png",
+    "files/Pasted image 20231102104141.png",
+    "react/redux/redux.md",
+    "react/redux/files/Pasted image 20231023113757.png",
+    "react/redux/files",
+    "prisma+next auth+trpc/Prisma.md",
+    "prisma+next auth+trpc",
     "next",
     "files/Pasted image 20230804093746.png",
     "files/Pasted image 20230804105609.png",

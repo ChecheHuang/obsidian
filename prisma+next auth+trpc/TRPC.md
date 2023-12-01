@@ -1,6 +1,6 @@
 
 app/api/trpc/[trpc]/context.ts
-``` typescript
+``` typescript!
 import { getUserAuth } from '@/app/api/auth/[...nextAuth]/options'
 import { FetchCreateContextFnOptions } from '@trpc/server/adapters/fetch'
 
