@@ -18,19 +18,43 @@
             }
           },
           {
-            "id": "61dce4b102a58c81",
+            "id": "6d043a4bed108cfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/MarkDown to PDF.md",
+                "file": "mysql/xampp重置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3c0043ff35df3fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "雜項.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20061af33085893f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "後端面試題.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -59,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "laravel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/MarkDown to PDF.md",
+                "file": "後端面試題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,21 +132,15 @@
             }
           },
           {
-            "id": "075a3cbcac30cf3a",
+            "id": "f1a12711bb17d87d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
-            }
-          },
-          {
-            "id": "b1069a8b26ed58f1",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ]
@@ -144,53 +162,53 @@
       "templates:插入模板": false
     }
   },
-  "active": "61dce4b102a58c81",
+  "active": "20061af33085893f",
   "lastOpenFiles": [
-    "工具/log.md",
-    "工具/axios.md",
-    "工具/vite設定.md",
-    "工具/tailwind css.md",
-    "工具/MarkDown to PDF.md",
-    "學習/正規表達式.md",
-    "學習/typescript/typeScript問題.md",
-    "學習/typescript/TypeScript TS 快速入門｜Tiktok工程師帶你入門前端｜布魯斯前端.md",
-    "express/express-ts.md",
-    "mysql/xampp重置.md",
-    "files/Pasted image 20230814180427.png",
-    "react/React Hook Form.md",
-    "react/components/Button.tsx.md",
-    "0428海光宮.md",
-    "加扣點回覆檔.md",
-    "未命名.md",
-    "計畫.md",
-    "想要做的.md",
     "雜項.md",
-    "PetNi.md",
-    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
-    "前端工程化/創建指令/4.配置路由.md",
-    "前端工程化/創建指令/5.使用shadcn-ui.md",
-    "plugin.md",
-    "工具/files/Pasted image 20230516161552.png",
+    "後端面試題.md",
+    "prisma+next auth+trpc/Next Auth.md",
+    "prisma+next auth+trpc/Prisma.md",
     "prisma+next auth+trpc/TRPC.md",
-    "工具/files/Pasted image 20230516161648.png",
-    "files/Pasted image 20231102104141.png",
-    "react/redux/redux.md",
+    "prisma+next auth+trpc/trpc+next auth+prisma.md",
+    "mysql/xampp重置.md",
+    "工具/axios.md",
+    "工具/log.md",
+    "工具/MarkDown to PDF.md",
+    "工具/tailwind css.md",
+    "工具/vite設定.md",
+    "express/express-ts.md",
+    "計畫.md",
     "react/redux/files/Pasted image 20231023113757.png",
     "react/redux/files",
-    "prisma+next auth+trpc/Prisma.md",
+    "express/express.d.ts.md",
+    "type challange.md",
+    "trpc+next auth/trpc+next auth+prisma.md",
+    "未命名.md",
     "prisma+next auth+trpc",
+    "trpc+next auth",
+    "files/Pasted image 20230814180427.png",
+    "files",
+    "前端工程化/創建指令/2.配置tailwind css 及 mock及vite設定.md",
+    "前端工程化/創建指令/3.axios配置.md",
+    "前端工程化/創建指令/1.建立專案及配置eslint+prettier+lintstage+husky+commitizen.md",
+    "next/Pages&Layout.md",
+    "Mutations.md",
+    "next/Revalidation.md",
+    "next/Middleware.md",
+    "next/Rest Api.md",
     "next",
     "files/Pasted image 20230804093746.png",
     "files/Pasted image 20230804105609.png",
     "書本",
     "files/Pasted image 20230719145833.png",
+    "工具/files/Pasted image 20230516161648.png",
+    "工具/files/Pasted image 20230516161552.png",
     "mysql/files/Pasted image 20230704080518.png",
     "mysql/files",
     "工具/files/Pasted image 20230627112937.png",
     "test.html",
     "前端工程化/創建指令",
-    "工具/md轉pdf/pandoc/fonts/license.txt",
-    "工具/md轉pdf/pandoc/fonts/IBMPlexSans-ThinItalic.ttf",
-    "工具/md轉pdf/pandoc/fonts/IBMPlexSans-Thin.ttf"
+    "工具/md轉pdf/pandoc/images/cover-image.png",
+    "工具/md轉pdf/pandoc/fonts/license.txt"
   ]
 }
