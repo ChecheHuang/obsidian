@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "發布npm/gitlab.md",
+                "file": "技術!!!!.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "發布npm/gitlab.md",
+                "file": "技術!!!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,14 @@
   },
   "active": "a291788c6d0ef67e",
   "lastOpenFiles": [
+    "發布npm/gitlab.md",
+    "學習/linux/資安工具/mod-security/mod-security.md",
+    "學習/linux/資安工具/WAF.md",
+    "學習/linux/資安工具/iperf.md",
+    "學習/linux/常用指令.md",
+    "學習/linux/資安工具/fail2ban/fai2ban介紹.md",
     "學習/正規表達式.md",
+    "工具/vite設定.md",
     "發布npm/files/Pasted image 20240611142251.png",
     "發布npm/files/Pasted image 20240611143457.png",
     "發布npm/files/Pasted image 20240611143433.png",
@@ -156,11 +163,9 @@
     "發布npm/files/Pasted image 20240611142339.png",
     "發布npm/files/Pasted image 20240611141258.png",
     "發布npm/files/Pasted image 20240611141614.png",
-    "發布npm/gitlab.md",
     "發布npm/files",
     "發布npm",
     "學習/typescript/typeScript問題.md",
-    "工具/vite設定.md",
     "工具/MarkDown to PDF.md",
     "工具/tailwind css.md",
     "工具/log.md",
@@ -170,7 +175,7 @@
     "雜項.md",
     "想要做的.md",
     "計畫.md",
-    "未命名.md",
+    "技術!!!!.md",
     "後端面試題.md",
     "加扣點回覆檔.md",
     "工作事項.md",
@@ -178,11 +183,6 @@
     "未命名 1.md",
     "電商問題.md",
     "iv/html/script 標籤中defer 和async 的區別.md",
-    "iv/html/從瀏覽器地址欄輸入url 到請求返回發生了什麼.md",
-    "iv/html/如何理解HTML語意化.md",
-    "iv/css/實現聖杯佈局和雙飛翼佈局（經典三分欄佈局）.md",
-    "iv/css/實現兩欄佈局（左側固定+ 右側自適應佈局）.md",
-    "iv/css/盒模型介紹.md",
     "海光公/files/Pasted image 20240311082840.png",
     "海光公/files/Pasted image 20240311082826.png",
     "海光公/files/Pasted image 20240311082814.png",
