@@ -1,5 +1,6 @@
 ```bash
 cd /c/xampp/mysql
+rm -rf dataold
 mv data dataold
 cp -r backup data
 cp -f dataold/ibdata1 data/ibdata1
