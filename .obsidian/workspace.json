@@ -46,21 +46,9 @@
               "icon": "lucide-file",
               "title": "xampp重置"
             }
-          },
-          {
-            "id": "c3bc2fbc6fe593d6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3bc2fbc6fe593d6",
+  "active": "d0933c29cb4d5e1e",
   "lastOpenFiles": [
     "技術!!!!.md",
     "學習/正規表達式.md",
